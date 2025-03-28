@@ -2,13 +2,16 @@
 
 Vanguard, a Business Conglomerate, is interested in expanding its portfolio and has set its scope on purchasing and operating planes for both private and commercial enterprises. However, with no prior experience in the aviation sector, the company needs guidance on which airplanes to invest on as diffrerent airplanes pose different risk factors. In order to provide guidance to the company, intensive research on different airplane data will be done in order to generate insight on which airplanes pose the lowest risks. The insight will be used by the head of the new aviation division in deciding on which airplanes to purchase and operate.
 
+[Click Here](https://public.tableau.com/app/profile/brian.arthur1141/viz/AIRCRAFTINSIGHT/Dashboard2) to access my Tableau Dahsboard.
 
 **Objectives**
-> Identify the airplane models and manufacturers with the lowest accident rates.
-> Determine which airplane engine types are associated with the lowest crash rates.
-> Identify the safest airplane operations with the lowest incidence of plane crashes.
 
-DATA UNDERSTANDING
+* Identify the airplane models and manufacturers with the lowest accident rates.
+* Determine which airplane engine types are associated with the lowest crash rates.
+* Identify the safest airplane operations with the lowest incidence of plane crashes.
+
+**DATA UNDERSTANDING**
+
 The data to be used in the analysis was gotten from [Kaggle](https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses), a data science platform, which has multiple datasets.
 
 The particular dataset was from the National Transportation Safety Board (NTSB). This dataset is comprised of aviation accidents data from 1962 to 2023 about civil aviation accidents and selected incidents within the United States, its territories and international waters. This makes the data relevant to this study as it includes all the relevant information regarding the accidents (the aircraft type, type of flight, the engine type, and the weather during the incident). All this data will make it possible to fulfill the objectives of the study.
